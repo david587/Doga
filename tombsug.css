@@ -12,3 +12,11 @@ input{
 h1{ 
     font-family: sans-serif;
 }
+#szamitgomb{
+    padding: 5px;
+    background-color: rgb(223, 220, 215);
+    position: absolute;
+    margin-left: 220px;
+    top: 160px;
+    border-color: aliceblue;
+}
