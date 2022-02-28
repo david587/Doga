@@ -1,0 +1,14 @@
+.container{
+    background-color: aquamarine;
+    margin: 2%;
+    padding: 15px;
+    border-radius: 5px;
+    border: solid 3px black;
+    box-shadow: 10px 10px 10px;
+}
+input{
+    margin-bottom: 3px;
+}
+h1{ 
+    font-family: sans-serif;
+}
